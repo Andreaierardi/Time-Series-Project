@@ -1,5 +1,5 @@
 # Time-Series-Project
-Time Series Project in Eviews for the course Micro-econometrics, Causal Inference and Time Series Econometrics, module Time Series Econometrics
+Project in Eviews for the course Micro-econometrics, Causal Inference and Time Series Econometrics, module Time Series Econometrics
 
 ## Introduction
 The aim of the project is to analyse the dataset that contains US dollar LIBOR interbank interest rates. It contains two type of maturity observations of the period from 1961 to 2008: monthly short-term and yearly long-term.
