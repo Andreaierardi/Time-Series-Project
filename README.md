@@ -7,8 +7,8 @@ The study is focused on searching for relation between the long-term and short-t
 
 ## Table of Contents
 
-- 1. Introduction
-- 2. Unit root test
+- 1 Introduction
+- 2 Unit root test
   - 2.1 Unit root test for short-term rates 
   - 2.2 Unit root test for long-term rates 
   - 2.3 Unit root test for spread
